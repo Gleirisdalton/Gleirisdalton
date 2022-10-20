@@ -1,5 +1,9 @@
 ### Hi there 👋 Gleirisdalton do carmo 
-https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 <!--
 **Gleirisdalton/Gleirisdalton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
