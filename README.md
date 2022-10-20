@@ -1,5 +1,5 @@
 ### Hi there 👋 Gleirisdalton do carmo 
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white
 <!--
 **Gleirisdalton/Gleirisdalton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
