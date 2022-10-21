@@ -1,7 +1,7 @@
 ### Hi there 👋 Gleirisdalton do carmo 
 <div align="center">
 
-   <a href = "mailto:gleirisdalton2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-#171515?style=for-the-badge&logo=gmail&logoColor="RGB="#FF0000" destino ="RGB="#FF0000"></a> 
+   <a href = "mailto:gleirisdalton2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-171515?style=for-the-badge&logo=gmail&logoColor="RGB="#FF0000" destino ="RGB="#FF0000"></a> 
    
    <a href = "https://www.linkedin.com/in/gleirisdalton" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
    
